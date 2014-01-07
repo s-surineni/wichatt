@@ -4,5 +4,7 @@
     <string name="app_name">wi-chat</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="enable">Enable wifi</string>
+    <string name="disable">Disable</string>
 
 </resources>
